@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Sigmar';
+    src: url('Sigmar-Regular.eot');
+    src: url('Sigmar-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Sigmar-Regular.woff2') format('woff2'),
+        url('Sigmar-Regular.woff') format('woff'),
+        url('Sigmar-Regular.ttf') format('truetype'),
+        url('Sigmar-Regular.svg#Sigmar-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
